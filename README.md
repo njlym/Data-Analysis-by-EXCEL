@@ -1,5 +1,5 @@
 # Data-Analysis-by-EXCEL
-This repository contains the final project for the Data Analysis using Excel Bootcamp, which involves solving five key questions using various Excel functionalities.
+This repository contains the Excel file, report and the presentation for the final project for the Data Analysis using Excel Bootcamp, which involves solving five key questions using various Excel functionalities.
 The project demonstrates skills in data cleaning, table creation, pivot table generation, VBA macro development, chart creation, and statistical analysis.
 
 ## Project Details
